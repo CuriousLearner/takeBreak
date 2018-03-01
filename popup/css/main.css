@@ -1,0 +1,16 @@
+#container {
+    color: #FFFFFF;
+    background: linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
+    font-family: Helvetica;
+    padding: 10px 50px 50px 50px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#credits {
+    font-size: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
